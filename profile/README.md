@@ -18,5 +18,5 @@ Feel free to explore our repositories and open issues.
 
 
 ## Contact and Links
-- [List of publications]()
-- [GitHub repositories](https://github.com/robochimps)
+- [List of publications](list_of_publications.md)
+- [GitHub repositories](https://github.com/orgs/robochimps/repositories)
