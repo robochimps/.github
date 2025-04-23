@@ -2,8 +2,9 @@
 
 We are a group of researchers exploring the fields of **molecular physics**, **spectroscopy**, and **theoretical chemistry**.
 Some of us do this in universities, others in our spare time.
-Our goal isn't just to publish papers, we want to share the code, tools, and computational tricks we use to get our results, so others can build on them and test them.
-We believe science should be open and reproducible, and we're here to push the limits of what's computationally possible.
+Our goal isn't just to publish papers in scientific journals, we want to share our results and ideas in a way that's clear and accessible.
+That includes the code, tools, and computational tricks we use to get our results, so others can build on them, test, and take them further.
+We believe science should be open, reproducible, and collaborative, and we're here to push the limits of what's computationally possible.
 
 ## Our  projects
 ### [vibrojet](https://github.com/robochimps/vibrojet) - A Python package built on **JAX**, for computing **kinetic** and **potential energy operators** of molecules and their **Taylor series expansions**.
