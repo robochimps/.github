@@ -7,6 +7,8 @@ That includes the code, tools, and computational tricks we use to get our result
 We believe science should be open, reproducible, and collaborative, and we're here to push the limits of what's computationally possible.
 
 ## Our  projects
+### [richmol](https://github.com/robochimps/richmol) - A Python package for simulations of rotational and rovibrational molecular dynamics in fields, as well as computations of molecular spectra.
+Developed as part of ongoing research projects, it continues to evolve, with new features added in response to project needs and community interest.
 ### [vibrojet](https://github.com/robochimps/vibrojet) - A Python package built on **JAX**, for computing **kinetic** and **potential energy operators** of molecules and their **Taylor series expansions**.
 ### [rotational_clusters](https://github.com/robochimps/rotational_clusters) - A repository containing code for computing highly-excited rovibrational states of a triatomic molecule, including nuclear-spin hyperfine effects.
 As an example, for the $\text{H}_2\text{S}$ molecule, we explore the effect of rotational energy-level clustering at high rotational excitations, a phenomenon linked to spontaneous symmetry breaking induced by centrifugal distortion and Coriolis couplings.
