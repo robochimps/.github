@@ -12,6 +12,8 @@ https://doi.org/10.48550/arXiv.2502.15750)
 
 - Yahya Saleh, Álvaro Fernández Corral, Emil Vogt, Armin Iske, Jochen Küpper, Andrey Yachmenev, **Computing excited states of molecules using normalizing flows**, *J. Chem. Theory Comput.* **21** (2025) 5221, [DOI: https://doi.org/10.1021/acs.jctc.5c00590](https://doi.org/10.1021/acs.jctc.5c00590), [arXiv:2308.16468 [physics]](https://doi.org/10.48550/arXiv.2308.16468)
 
+  - Repository: [https://gitlab.desy.de/CMI/CMI-public/flows](https://gitlab.desy.de/CMI/CMI-public/flows)
+
 - Andrey Yachmenev, Guang Yang, **Nuclear spin symmetry-breaking and spin polarization in rotational energy level clusters**, 2025, [arXiv:2503.20695 [physics]]( 	
 https://doi.org/10.48550/arXiv.2503.20695)
 
