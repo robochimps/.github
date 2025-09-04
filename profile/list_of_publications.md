@@ -13,7 +13,7 @@ https://doi.org/10.48550/arXiv.2502.15750)
 
   - Repository: [https://gitlab.desy.de/CMI/CMI-public/flows](https://gitlab.desy.de/CMI/CMI-public/flows)
 
-- Andrey Yachmenev, Guang Yang, **Nuclear spin symmetry-breaking and spin polarization in rotational energy level clusters**, 2025, [arXiv:2503.20695 [physics]]( 	
+- Andrey Yachmenev, Guang Yang, **Nuclear spin symmetry-breaking and spin polarization in rotational energy level clusters**, *Phys. Rev. Research* **7** (2025) L032047, [DOI:10.1103/k7nd-nnxg](https://doi.org/10.1103/k7nd-nnxg), [arXiv:2503.20695 [physics]]( 	
 https://doi.org/10.48550/arXiv.2503.20695)
 
   - Repository: [https://github.com/robochimps/rotational_clusters](https://github.com/robochimps/rotational_clusters)
