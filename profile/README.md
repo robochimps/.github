@@ -7,7 +7,7 @@ That includes the code, tools, and computational tricks we use to get our result
 We believe science should be open, reproducible, and collaborative, and we're here to push the limits of what's computationally possible.
 
 ## Our  projects
-### [isotope_nqr](https://github.com/robochimps/isotope_nqr) - A repository for computing nuclear-quadrupole hyperfine rotational energy levels and spectra, as well as simulating nuclear spin symmetry breaking and spin polarization.  
+### [isotope_nqr](https://github.com/robochimps/isotope_nqr) - A repository for computing nuclear-quadrupole hyperfine rotational energy levels and spectra, simulation of nuclear spin symmetry breaking and spin polarization.
 The examples include simulations of spin-symmetry breaking in $\text{CH}_2\text{Cl}_2$ and $\text{S}_2\text{Cl}_2$ molecules induced by isotope substitution, where one of the chlorine atoms is replaced with a different isotope.
 
 ### [richmol](https://github.com/robochimps/richmol) - A Python package for simulations of rotational and rovibrational molecular dynamics in fields and computations of molecular spectra.
