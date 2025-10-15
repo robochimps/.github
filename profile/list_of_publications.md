@@ -6,7 +6,7 @@
 
   - Repository: [https://github.com/robochimps/vibrojet](https://github.com/robochimps/vibrojet)
 
-- Emil Vogt, Álvaro Fernández Corral, Yahya Saleh, Andrey Yachmenev, **Transferability of vibrational normalizing-flow coordinates: A pathway towards intrinsic coordinates**, 2025, [arXiv:2502.15750 [physics]](https://doi.org/10.48550/arXiv.2502.15750)
+- Emil Vogt, Álvaro Fernández Corral, Yahya Saleh, Andrey Yachmenev, **Transferability of vibrational normalizing-flow coordinates: A pathway towards intrinsic coordinates**, *J. Chem. Phys.* **163**, 154106 (2025), [DOI:10.1063/5.0285954](https://doi.org/10.1063/5.0285954), [arXiv:2502.15750 [physics]](https://doi.org/10.48550/arXiv.2502.15750)
 
   - Repository: [https://gitlab.desy.de/CMI/CMI-public/flows](https://gitlab.desy.de/CMI/CMI-public/flows)
 
