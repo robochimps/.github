@@ -21,6 +21,9 @@ As an example, for the $\text{H}_2\text{S}$ molecule, we explore the effect of r
 ### [flows](https://github.com/robochimps/flows) - A variational framework for computing vibrational and rovibrational states of molecules, leveraging **normalizing flows** for optimizing molecular basis sets.
   - External repository [https://gitlab.desy.de/CMI/CMI-public/flows](https://gitlab.desy.de/CMI/CMI-public/flows)
 
+### [flows](https://github.com/robochimps/symm-flows) - Simulations of vibrational states of molecules with symmetry-aware **normalizing flows** for optimizing vibrational coordinates.
+The repository contains all code used to compute results in the publication "Adaptive Vibrational Coordinates via Symmetry-Aware Normalizing Flows"
+
 ## Get involved
 We welcome contributions, collaborations, and discussions!
 Feel free to explore our repositories and open issues.
