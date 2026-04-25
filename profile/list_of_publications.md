@@ -1,5 +1,9 @@
 # List of publications
 
+## 2026
+1. Yahya Saleh,  **Convergence theory for Hermite approximations under adaptive coordinate transformations**, [arXiv:2604.16975 [cs.NA]](
+https://doi.org/10.48550/arXiv.2604.16975)
+
 ## 2025
 
 1. Andrey Yachmenev, Emil Vogt, **Enhancement of nuclear spin transitions as a resonance effect of isotope substitution**, *J. Chem. Phys.* **163**, 164303 (2025), [DOI:10.1063/5.0300952](https://doi.org/10.1063/5.0300952)
