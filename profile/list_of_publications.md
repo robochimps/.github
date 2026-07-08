@@ -8,7 +8,9 @@ https://doi.org/10.48550/arXiv.2604.16975)
 
     Repository: [https://github.com/robochimps/symm-flows](https://github.com/robochimps/symm-flows)
 
-3. Andrey Yachmenev and Guntram Rauhut, **Optimized curvilinear coordinates in vibration correlation methods: Quasi-degenerate perturbation theory**, *J. Chem. Phys.* **165**, 024105 (2026), [DOI:10.1063/5.0340086](https://doi.org/10.1063/5.0340086)
+3. Álvaro Fernández Corral, Yahya Saleh, **Enhancing polynomial approximation of continuous functions by composition with homeomorphisms** [arXiv:2512.13740 [math.NA]](https://arxiv.org/abs/2512.13740)
+
+4. Andrey Yachmenev and Guntram Rauhut, **Optimized curvilinear coordinates in vibration correlation methods: Quasi-degenerate perturbation theory**, *J. Chem. Phys.* **165**, 024105 (2026), [DOI:10.1063/5.0340086](https://doi.org/10.1063/5.0340086)
 
 ## 2025
 
