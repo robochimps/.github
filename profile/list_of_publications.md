@@ -22,11 +22,11 @@ https://doi.org/10.48550/arXiv.2604.16975)
 
     Repository: [https://gitlab.desy.de/CMI/CMI-public/flows](https://gitlab.desy.de/CMI/CMI-public/flows)
 
-4. Yahya Saleh, Álvaro Fernández Corral, Emil Vogt, Armin Iske, Jochen Küpper, Andrey Yachmenev, **Computing excited states of molecules using normalizing flows**, *J. Chem. Theory Comput.* **21** (2025) 5221, [DOI:10.1021/acs.jctc.5c00590](https://doi.org/10.1021/acs.jctc.5c00590), [arXiv:2308.16468 [physics]](https://doi.org/10.48550/arXiv.2308.16468)
+4. Yahya Saleh, Álvaro Fernández Corral, Emil Vogt, Armin Iske, Jochen Küpper, Andrey Yachmenev, **Computing excited states of molecules using normalizing flows**, *J. Chem. Theory Comput.* **21**, 5221 (2025), [DOI:10.1021/acs.jctc.5c00590](https://doi.org/10.1021/acs.jctc.5c00590), [arXiv:2308.16468 [physics]](https://doi.org/10.48550/arXiv.2308.16468)
 
     Repository: [https://gitlab.desy.de/CMI/CMI-public/flows](https://gitlab.desy.de/CMI/CMI-public/flows)
 
-5. Andrey Yachmenev, Guang Yang, **Nuclear spin symmetry breaking and spin polarization in rotational energy level clusters**, *Phys. Rev. Research* **7** (2025) L032047, [DOI:10.1103/k7nd-nnxg](https://doi.org/10.1103/k7nd-nnxg), [arXiv:2503.20695 [physics]](https://doi.org/10.48550/arXiv.2503.20695)
+5. Andrey Yachmenev, Guang Yang, **Nuclear spin symmetry breaking and spin polarization in rotational energy level clusters**, *Phys. Rev. Research* **7**, L032047 (2025), [DOI:10.1103/k7nd-nnxg](https://doi.org/10.1103/k7nd-nnxg), [arXiv:2503.20695 [physics]](https://doi.org/10.48550/arXiv.2503.20695)
 
     Repository: [https://github.com/robochimps/rotational_clusters](https://github.com/robochimps/rotational_clusters)
 
@@ -35,7 +35,7 @@ https://doi.org/10.48550/arXiv.2604.16975)
     Repository: [https://github.com/robochimps/2025-post-jax-taylor](https://github.com/robochimps/2025-post-jax-taylor)
 
 7. Y. Saleh and A. Iske, **Inducing Riesz bases in $L^2$ _via_ composition operators**, *Complex Anal.
-Oper. Theory.* **20**, 21 (2025). [DOI:10.1007/s11785-025-01874-5](https://doi.org/10.1007/s11785-025-01874-5), [arXiv:2406.18613 [math]](
-https://doi.org/10.48550/arXiv.2406.18613).
+Oper. Theory* **20**, 21 (2025), [DOI:10.1007/s11785-025-01874-5](https://doi.org/10.1007/s11785-025-01874-5), [arXiv:2406.18613 [math]](
+https://doi.org/10.48550/arXiv.2406.18613)
 
     Repository: [https://github.com/robochimps/bases_by_composition](https://github.com/robochimps/bases_by_composition)
