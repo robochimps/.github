@@ -6,6 +6,8 @@ https://doi.org/10.48550/arXiv.2604.16975)
 
 2. Emil Vogt, Álvaro Fernández Corral, Yahya Saleh, **Adaptive Vibrational Coordinates via Symmetry-Aware Normalizing Flows**, *J. Chem. Theory Comput.* **22**, 6137 (2026), [DOI:10.1021/acs.jctc.6c00224](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00224)
 
+    Repository: [https://github.com/robochimps/symm-flows](https://github.com/robochimps/symm-flows)
+
 3. Andrey Yachmenev and Guntram Rauhut, **Optimized curvilinear coordinates in vibration correlation methods: Quasi-degenerate perturbation theory**, *J. Chem. Phys.* **165**, 024105 (2026), [DOI:10.1063/5.0340086](https://doi.org/10.1063/5.0340086)
 
 ## 2025
