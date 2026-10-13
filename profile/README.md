@@ -7,6 +7,12 @@ That includes the code, tools, and computational tricks we use to get our result
 We believe science should be open, reproducible, and collaborative, and we're here to push the limits of what's computationally possible.
 
 ## Our  projects
+
+### [keosop](https://github.com/robochimps/keosop) - A Python package for automated generation of molecular rovibrational kinetic-energy operators in sum-of-products form.
+
+### [symm-flows](https://github.com/robochimps/symm-flows) - Simulations of vibrational states of molecules with symmetry-aware **normalizing flows** for optimizing vibrational coordinates.
+The repository contains all code used to compute results in the publication "Adaptive Vibrational Coordinates via Symmetry-Aware Normalizing Flows"
+
 ### [isotope_nqr](https://github.com/robochimps/isotope_nqr) - Simulations of isotope substitution effects on nuclear-quadrupole hyperfine interactions and spin polarization.
 The examples include cases of spin-symmetry breaking in $\text{CH}_2\text{Cl}_2$ and $\text{S}_2\text{Cl}_2$ molecules induced by replacing one of the chlorine atoms with a different isotope.
 
@@ -20,9 +26,6 @@ As an example, for the $\text{H}_2\text{S}$ molecule, we explore the effect of r
 
 ### [flows](https://github.com/robochimps/flows) - A variational framework for computing vibrational and rovibrational states of molecules, leveraging **normalizing flows** for optimizing molecular basis sets.
   - External repository [https://gitlab.desy.de/CMI/CMI-public/flows](https://gitlab.desy.de/CMI/CMI-public/flows)
-
-### [symm-flows](https://github.com/robochimps/symm-flows) - Simulations of vibrational states of molecules with symmetry-aware **normalizing flows** for optimizing vibrational coordinates.
-The repository contains all code used to compute results in the publication "Adaptive Vibrational Coordinates via Symmetry-Aware Normalizing Flows"
 
 ## Get involved
 We welcome contributions, collaborations, and discussions!
