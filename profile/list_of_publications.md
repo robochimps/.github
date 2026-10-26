@@ -11,6 +11,8 @@ https://doi.org/10.48550/arXiv.2604.16975)
 3. Álvaro Fernández Corral, Yahya Saleh, **Enhancing polynomial approximation of continuous functions by composition with homeomorphisms** [arXiv:2512.13740 [math.NA]](https://arxiv.org/abs/2512.13740)
 
 4. Andrey Yachmenev and Guntram Rauhut, **Optimized curvilinear coordinates in vibration correlation methods: Quasi-degenerate perturbation theory**, *J. Chem. Phys.* **165**, 024105 (2026), [DOI:10.1063/5.0340086](https://doi.org/10.1063/5.0340086)
+   
+6. Andrey Yachmenev and Guntram Rauhut, **How much do VSCF optimized curvilinear coordinates accelerate the convergence of state-specific VCI calculations?**, *J. Chem. Phys.* **165**, 161102 (2026), [DOI:10.1063/5.0359790](https://doi.org/10.1063/5.0359790)
 
 ## 2025
 
